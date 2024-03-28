@@ -1344,7 +1344,7 @@ end
 })
 
 AddButton(Main, {
-  Name = "Equip All Knifes",
+  Name = "Kill Place(Beta)",
   Callback = function()
     plr = game:service'Players'.LocalPlayer
 char = plr.Character
